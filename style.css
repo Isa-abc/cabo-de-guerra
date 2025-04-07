@@ -1,0 +1,57 @@
+body {
+  background-color: black;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  color: white;
+}
+
+.logo img {
+  width: 15%;
+  position: absolute;
+  margin-left: 5px;
+  margin-top: 2px;
+}
+
+/* Container with the background image */
+.container {
+  background: url("https://i.postimg.cc/HjGc0K5j/cabodeguerraimg.png")
+    no-repeat center center/cover;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.content {
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.5);
+  box-shadow: 3px 4px 5px 6px rgba(0, 0, 0, 0.3);
+  padding: 15px 35px;
+  border-radius: 8px;
+}
+
+.content h2 {
+  margin-bottom: 20px;
+}
+
+/* Button Styles */
+button {
+  background-color: #8c52ff;
+  border: none;
+  padding: 10px 20px;
+  font-size: 1.2em;
+  border-radius: 8px;
+  color: white;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #ff5757;
+}
+
+/* Footer Styles */
+footer {
+  text-align: center;
+  padding: 10px;
+}
