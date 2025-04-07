@@ -1,6 +1,6 @@
 # Cabo de Guerra
 
-A Pen created on CodePen.
+Um jogo de cabo de guerra simples desenvolvido em JavaScript.
 
-Original URL: [https://codepen.io/Isa-abc/pen/QwWoRPZ](https://codepen.io/Isa-abc/pen/QwWoRPZ).
+Feito na Imersão DEV Alura utilizando a IDE online CodePen: [https://codepen.io/Isa-abc/pen/QwWoRPZ](https://codepen.io/Isa-abc/pen/QwWoRPZ).
 
